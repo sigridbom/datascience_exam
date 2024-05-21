@@ -161,4 +161,6 @@ cython_debug/
 
 data/*
 
-*/ucloud_setup.sh
+ucloud_setup.sh
+env_setup.sh
+requirements.txt
