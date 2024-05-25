@@ -7,10 +7,9 @@ Notebooks are numbered (1,2,3) and they are supposed to be run in the order.
 - 3_building_models: Builds and tests different models. From a dummy 'mean' model to a RandomForestRegressor. 
 
 ### Data
-The data set is from kaggle: https://www.kaggle.com/datasets/imoore/age-dataset (Annamoradnejad & Annamoradnejad (2022)
+The dataset is from kaggle: https://www.kaggle.com/datasets/imoore/age-dataset (Annamoradnejad & Annamoradnejad (2022)
 
-
-The data used for the exam is uploaded in the data folder as a zipped file. 
+The data is uploaded in the data folder as a zipped file. 
 
 The text embeddings used in the models are too big for GitHub even when zipped, so if you don't want to run the entire code, the files can be downloaded from here: https://drive.google.com/drive/folders/1ryos5F4kH5VcHczO7J7RyK33-x1YRduU?usp=sharing 
 
