@@ -1,6 +1,10 @@
 # datascience_exam
 
-
+### Structure of notebooks
+Notebooks are numbered (1,2,3) and they are supposed to be run in the order.
+1_data_wrangling: Cleans, preprocesses and plots the data
+2_embeddings: Embed three different text columns and reduces their dimensions with PCA. PCA reduced embeddings are clustered. 
+3_building_models: As the name suggest, in this script different models are built. From a dummy 'mean' model to a RandomForestRegressor. 
 
 ### Data
 The data set is from kaggle: https://www.kaggle.com/datasets/imoore/age-dataset (Annamoradnejad & Annamoradnejad (2022)
