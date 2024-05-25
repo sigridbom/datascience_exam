@@ -159,7 +159,22 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-data/*
+data/AgeDataset-V1.csv
+data/oc_pca_train.npy
+data/occupation_umap.csv
+data/pca_vecs_country_train.npy
+data/pca_vecs_country_val.npy
+data/pca_vecs_country_test.npy
+data/pca_vecs_occupation_train.npy
+data/pca_vecs_occupation_val.npy
+data/pca_vecs_occupation_test.npy
+data/pca_vecs_description_train.npy
+data/pca_vecs_description_val.npy
+data/pca_vecs_description_test.npy
+data/X_train_occupation.csv
+data/test_features.csv
+data/train_features.csv
+data/val_features.csv
 
 ucloud_setup.sh
 env_setup.sh
