@@ -175,6 +175,7 @@ data/X_train_occupation.csv
 data/test_features.csv
 data/train_features.csv
 data/val_features.csv
+data/embedded_features.zip # too big 
 
 ucloud_setup.sh
 env_setup.sh
