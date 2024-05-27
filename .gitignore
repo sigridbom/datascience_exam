@@ -179,7 +179,32 @@ data/embedded_features.zip # too big
 data/X_train_filtered.csv
 data/X_val_filtered.csv
 
+notebooks/3_building_models copy.ipynb
+
 ucloud_setup.sh
 env_setup.sh
 requirements.txt
-output/models/*
+#output/models/*
+
+output/plots/performances_old.jpg
+output/models/cv_rfr_tuned.pkl
+output/models/knn-allpreds-10.pkl
+output/models/model_performances_dict.csv
+output/models/model_performances_v2.csv
+output/models/model_performances_v3.csv
+output/models/model_performances_v4.csv
+output/models/model_performances_v5.csv
+output/models/model_performances_v6.csv
+output/models/model_performances_v7.csv
+output/models/model_performances_v8.csv
+output/models/model_performances_old.csv
+output/models/performances_list.csv
+output/models/random_forrest_occupation.pkl
+output/models/random_forrest_occupation2.pkl
+output/models/randomized_search_cv_58_features_more_constrained.pkl
+output/models/rfr_58_features_val.pkl
+output/models/rfr_default_58_features.pkl
+output/models/rfr_default_all_features.pkl
+output/models/rfr_default.pkl
+output/models/rfr_occupation_less_params.pkl
+
