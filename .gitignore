@@ -179,7 +179,8 @@ data/embedded_features.zip # too big
 data/X_train_filtered.csv
 data/X_val_filtered.csv
 
-notebooks/3_building_models copy.ipynb
+notebooks/3_building_models_copy.ipynb
+notebooks/3_building_models_copy_old.ipynb
 
 ucloud_setup.sh
 env_setup.sh
