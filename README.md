@@ -1,4 +1,4 @@
-# Exam in Data science, prediction and forecasting, spring 2024
+# Exam in Data Science, Prediction and Forecasting, spring 2024
 The analysis was done in Visual Studio Code using Python version 3.12.3 on the UCloud interactive HP system, managed by the eScience at centre at SDU.
 
 
