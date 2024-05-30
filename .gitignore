@@ -187,6 +187,8 @@ env_setup.sh
 requirements.txt
 #output/models/*
 
+output/plots/performances_plot_better.jpg
+output/plots/performances_plot_better2.jpg
 output/plots/performances_old.jpg
 output/models/cv_rfr_tuned.pkl
 output/models/knn-allpreds-10.pkl
