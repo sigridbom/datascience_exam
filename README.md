@@ -1,4 +1,6 @@
-# Exam in Data Science, Prediction and Forecasting, spring 2024
+# Exam in Data Science, Prediction and Forecasting
+Spring, 2024
+
 The analysis was done in Visual Studio Code using Python version 3.12.3 on the UCloud interactive HP system, managed by the eScience at centre at SDU.
 
 
@@ -21,6 +23,6 @@ One model can be found in the /output/models/ folder, and others can be found in
 - Models on Google drive include: KNN-regression, default random forest regression with all features and with a subset of features (58 predictors).
 - Models on GitHub include: the model object after the randomized cross-validation search.
 
-### References
+#### References
 Annamoradnejad, Issa; Annamoradnejad, Rahimberdi (2022), “Age dataset: A structured general-purpose dataset on life, work, and death of 1.22 million distinguished people”, In Workshop Proceedings of the 16th International AAAI Conference on Web and Social Media (ICWSM), doi: 10.36190/2022.82
 
