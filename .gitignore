@@ -187,6 +187,7 @@ env_setup.sh
 requirements.txt
 #output/models/*
 
+output/models/cv_rfr_tuned_58_features copy.pkl
 output/plots/performances_plot_better.jpg
 output/plots/performances_plot_better2.jpg
 output/plots/performances_old.jpg
